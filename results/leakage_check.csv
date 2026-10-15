@@ -1,0 +1,5 @@
+Split,Model,Test accuracy,Std over folds
+Random (stratified),XGBoost,0.9574131816546454,
+Random (stratified),LightGBM,0.9573789168908153,
+Contiguous blocks (5-fold),XGBoost,0.9573934794154431,0.0002652975754373118
+Contiguous blocks (5-fold),LightGBM,0.9573455087460809,0.00019191709209396722

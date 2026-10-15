@@ -1,0 +1,11 @@
+# Simulation data is private (ENRG) - never commit it
+data/*
+!data/README.md
+*.csv
+!results/*.csv
+*.root
+
+__pycache__/
+.ipynb_checkpoints/
+*.log
+.venv/

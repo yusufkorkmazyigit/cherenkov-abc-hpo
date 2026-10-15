@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Cherenkov / Scintillation Photon Separation with ABC Hyperparameter Optimization"
+type: software
+authors:
+  - family-names: "Korkmazyiğit"
+    given-names: "Yusuf"
+    affiliation: "Erciyes University"
+repository-code: "https://github.com/yusufkorkmazyigit/cherenkov-abc-hpo"
+license: MIT
+date-released: "2026-10-15"
+keywords:
+  - artificial bee colony
+  - hyperparameter optimization
+  - cherenkov
+  - scintillation
+  - neutrino physics
